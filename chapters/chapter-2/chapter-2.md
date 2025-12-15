@@ -57,25 +57,3 @@ A shorthand name for these rules is OAOO, which stands for once and only once. T
 It would be nice if people could find problems easily across a whole system. But humans aren’t so good at that job; local smells work with our tendency to consider only the part we’re looking at right now.
 
 The refactoring step is what makes this process sustainable. Without it the code would quickly degenerate into the legacy spaghetti you’ve no doubt seen on many a software development project.
-
-### Book questions:
-
-A. Justify each of Beck’s rules for simple design.
-
-Kent Beck Simple Design:
-1. Passes all the tests.
-2. Communicates every intention important to the programmers. (we spend more time on understanding code than writing, it makes it easier to change when we understand the code)
-3. Has no duplication of code, or of logic, or of knowledge. (diverge problem, come up with same concepts across the team)
-4. Contains no unnecessary code.
-
-B. Why are these rules in priority order? Can you find an example where communication overrides avoidance of duplication?
-
-https://martinfowler.com/bliki/BeckDesignRules.html
-
-NoteLM exercise for chapter 1 (quiz)
-https://notebooklm.google.com/notebook/7132538c-48e5-4322-bb78-0afc67ece16e
-
-NoteLM exercise for chapter 2 (quiz)
-https://notebooklm.google.com/notebook/285e963b-858c-44bf-aaaf-10083ba90364
-
-
